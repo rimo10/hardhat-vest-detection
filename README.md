@@ -1,2 +1,4 @@
 To run the code-
-`python test.py`
+```python
+python test.py
+```
